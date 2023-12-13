@@ -584,7 +584,7 @@ textarea::placeholder {
 
 .logo {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     margin-bottom: 1.5rem;
     /* margin-top: 2rem; */
 }
