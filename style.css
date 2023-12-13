@@ -48,7 +48,8 @@ header {
 a {
     text-decoration: none;
     cursor: pointer;
-    color: var(--primary-color);
+    color: deeppink;
+    font-weight: 900;
 }
 a.program:hover {
     color: var(--secondary-color);
